@@ -1,0 +1,41 @@
+{
+    "custom": {
+        "brightness": 50,
+        "contrast": 0,
+        "rotation": 0,
+        "sharpness": 0,
+        "shutter_speed": 2000,
+        "zoom": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    "default": {
+        "brightness": 50,
+        "contrast": 0,
+        "rotation": 180,
+        "sharpness": 0,
+        "shutter_speed": 2000,
+        "zoom": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+        ]
+    },
+    "original": {
+        "brightness": 50,
+        "contrast": 0,
+        "rotation": 0,
+        "sharpness": 0,
+        "shutter_speed": 2000,
+        "zoom": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+        ]
+    }
+}
